@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlVasquez88
-- 👀 I’m interested in coding, music, and anime.
+- 👀 I’m interested in coding, music, and technology.
 - 🌱 I’m currently learning Java, Python, and Javascript.
 - 💞️ I’m looking to collaborate on all things code.
 - 📫 How to reach me: DMs. 
