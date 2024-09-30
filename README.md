@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlVasquez88
 - 👀 I’m interested in coding, music, and technology.
-- 🌱 I’m currently learning Java, Python, and Javascript.
+- 🌱 I’m currently learning Junit5, PHP, C#, and SQL.
 - 💞️ I’m looking to collaborate on all things code.
 - 📫 How to reach me: DMs. 
 - 😄 Pronouns: He/him
