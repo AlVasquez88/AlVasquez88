@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlVasquez88
 - 👀 I’m interested in coding, music, and technology.
-- 🌱 I’m currently learning full-stack development.
+- 🌱 I’m currently learning back-end development, but also willing to do some front-end stuff.
 - 💞️ I’m looking to collaborate on all things code.
 - 📫 How to reach me: DMs. 
 - 😄 Pronouns: He/him
